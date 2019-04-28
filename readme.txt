@@ -1,2 +1,3 @@
 t is a good software
-i am learning it
+i am learningit
+this  is a adding information
